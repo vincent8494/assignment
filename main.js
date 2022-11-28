@@ -1,1 +1,0 @@
-document.getElementById('myinquiry').innerHTML
